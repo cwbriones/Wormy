@@ -1,0 +1,25 @@
+Wormy
+A C++ Snake Clone using the Ncurses Library
+Copyright (c) 2012 Christian Briones <cwbriones@gmail.com>
+Version 1.1;
+
+Controls:
+	Arrow Keys for Movement
+	P - Pause/Unpause the Game
+	Q - Quit the Game
+v1.1
+	-Added Color
+
+v1.0
+Implemented All Major Game Features
+	-Random Apple Position
+	-Adding increasing Worm length with apple
+	-Checks for collisions to end game
+	-Fixed Issues with Apples spawning in Walls
+	-Added Worm flashing upon Game Over
+
+//--To Do List--//
+-Add output file that saves high scores
+-Add menu to view highscores and controls
+-Considering Toggleable Walls (i.e. Snake wrapping)
+-Add more apples onscreen at a time
